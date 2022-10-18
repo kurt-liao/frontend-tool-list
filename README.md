@@ -1,6 +1,11 @@
 # Frontend Tool Collections
 
+For the bad memory, listing various tools thay you may needed as a front-end developer. And also, we are not possible to know everything(tools), so find out the ideas, tools, libraries here that you haven't known but might useful for you.
+
+> The useful tools, libraries you known but not listed here? [Contribute](#contribution-guide) to this project.
+
 ## Table of contents
+
 1. [Design](#design)
 2. [Color](#color)
 3. [Font & Icons](#font--icons)
@@ -79,9 +84,26 @@
 ## Online playground
 
 - [flexbox playground](https://flexbox.tech/)
-- [stackBlitz](https://stackblitz.com/)
+- [StackBlitz](https://stackblitz.com/)
 - [jsfiddle](https://jsfiddle.net/)
 - [vue sfc playground](https://sfc.vuejs.org/)
 - [play code](https://playcode.io/)
 - [uno css playground](https://uno.antfu.me/play/)
-- [codepen](https://codepen.io/)
+- [Codepen](https://codepen.io/)
+
+---
+
+## Contribution Guide
+
+<details open>
+  <summary> <strong>Guide</strong> </summary>
+
+- Give it a **STAR**😊
+- Fork this repo
+- If the topic exists, add a link under the topic.
+- If not, **add topic first** and **add the link under the topic**. At last, add topic to contents.
+- Commit to your fork repo.
+- Create a [PR](https://github.com/kurt-liao/frontend-tool-collections/pulls)
+
+
+</details>
