@@ -1,6 +1,6 @@
 # Frontend Tool Collections
 
-For the bad memory, listing various tools thay you may needed as a front-end developer. And also, we are not possible to know everything(tools), so find out the ideas, tools, libraries here that you haven't known but might useful for you.
+For the bad memory, listing various tools thay you may needed as a frontend developer or a designer. And also, we are not possible to know everything(tools), so find out the ideas, tools, libraries here that you haven't known but might useful for you.
 
 > The useful tools, libraries you known but not listed here? [Contribute](#contribution-guide) to this project.
 
