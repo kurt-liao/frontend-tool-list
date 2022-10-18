@@ -1,4 +1,4 @@
-# Frontend Tool Collections
+# Frontend Tool List
 
 For the bad memory, listing various tools thay you may needed as a frontend developer or a designer. And also, we are not possible to know everything(tools), so find out the ideas, tools, libraries here that you haven't known but might useful for you.
 
@@ -103,7 +103,7 @@ For the bad memory, listing various tools thay you may needed as a frontend deve
 - If the topic exists, add a link under the topic.
 - If not, **add topic first** and **add the link under the topic**. At last, add topic to contents.
 - Commit to your fork repo.
-- Create a [PR](https://github.com/kurt-liao/frontend-tool-collections/pulls)
+- Create a [PR](https://github.com/kurt-liao/frontend-tool-list/pulls)
 
 
 </details>
