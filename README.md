@@ -31,6 +31,8 @@ For the bad memory, listing various tools thay you may needed as a frontend deve
 - [Color hex](https://www.color-hex.com/)
 - [Html color code](https://htmlcolorcodes.com/)
 - [Colorzilla](https://www.colorzilla.com/)
+- [WebAIM: Contrast Checker](https://webaim.org/resources/contrastchecker/)
+- [Color Safe](http://colorsafe.co/)
 
 ## Font & Icons
 
@@ -93,6 +95,7 @@ For the bad memory, listing various tools thay you may needed as a frontend deve
 - [play code](https://playcode.io/)
 - [uno css playground](https://uno.antfu.me/play/)
 - [Codepen](https://codepen.io/)
+- [CodeSandbox](https://codesandbox.io/)
 
 ---
 
