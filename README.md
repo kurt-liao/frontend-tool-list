@@ -64,6 +64,8 @@ For the bad memory, listing various tools thay you may needed as a frontend deve
 - [Pure.css](https://purecss.io/)
 - [Vuetify](https://vuetifyjs.com/en/)
 - [Ant Design](https://ant.design/)
+- [Terminal.css](https://terminalcss.xyz/) - Terminal like components.
+- [NES.css](https://nostalgic-css.github.io/NES.css/) - 8bit style components.
 
 ## Framework
 
