@@ -1,7 +1,4 @@
 # Frontend Tool List
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 For the bad memory, listing various tools thay you may needed as a frontend developer or a designer. And also, we are not possible to know everything(tools), so find out the ideas, tools, libraries here that you haven't known but might useful for you.
 
