@@ -46,7 +46,7 @@ For the bad memory, listing various tools thay you may needed as a frontend deve
 - [Screen Sizes](https://screensiz.es/phone)
 - [YesViz - Device Insight](https://yesviz.com/)
 - [caniuse](https://caniuse.com/)
-- [opengraph](https://www.opengraph.xyz/) - Check whether head meta tag set properly for your website
+- [opengraph](https://www.opengraph.xyz/) - Check if head meta tag set properly for your website
 
 ## JS Library
 
