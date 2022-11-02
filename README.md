@@ -79,6 +79,7 @@ For the bad memory, listing various tools thay you may needed as a frontend deve
 - [SolidJS](https://www.solidjs.com/)
 - [qwik](https://qwik.builder.io/)
 - [aurelia](https://aurelia.io/)
+- [Alpine.js](https://alpinejs.dev/)
 
 
 ## Image tools
